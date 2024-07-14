@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Check if the specific USB device is connected
-DEVICE_NAME="Anker USB-C Universal Dock"
+#In Terminal use "system_profiler SPUSBDataType" to locate the name of your dock
+DEVICE_NAME="FILL IN"
 DEVICE_CONNECTED=$(system_profiler SPUSBDataType | grep "$DEVICE_NAME")
 
 # Function to open the applications
