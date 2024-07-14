@@ -3,6 +3,7 @@
 ## Brewfile
 
 A curated list of applications that can be efficiently installed in bulk using Homebrew.
+[Brewfile](https://github.com/vuhroon/macOS-scripts/blob/main/Brewfile)
 
 ## Monitors.sh
 
