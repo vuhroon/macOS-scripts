@@ -1,1 +1,3 @@
 # macOS-scripts
+
+monitors.sh
